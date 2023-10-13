@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="enter_integer">Enter integer</string>
+    <string name="check">check</string>
+    <string name="factorial_calculator">Factorial Calculator</string>
+    <string name="enter_integer_0_23">Enter Integer ( 0 - 23 )</string>
+</resources>
